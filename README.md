@@ -26,4 +26,4 @@ git push origin
 git pull upstream master
 
 Всем продуктивной работы!
-Have fun!!
+Have fun!!Have fun!!
