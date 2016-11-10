@@ -26,3 +26,4 @@ git push origin abronya
 git pull upstream abronya
 
 Всем продуктивной работы!
+Have fun!!
